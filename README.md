@@ -6,7 +6,7 @@
 
 - 📧 **Como me encontrar:** **SamuelAlexandrinoContato@outlook.com**
 - 🔗 **LinkedIn:** [**https://www.linkedin.com/in/samuel-alexandrino-de-oliveira-81183b2a7**](https://www.linkedin.com/in/samuel-alexandrino-de-oliveira-81183b2a7)
-<a href="https://wa.me/5513996376129" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+\n <a href="https://wa.me/5513996376129" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 
 ---
 
