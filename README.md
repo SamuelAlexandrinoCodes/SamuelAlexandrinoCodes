@@ -8,7 +8,8 @@
 ## 🚀 Tech Stack
 - **Linguagens:** C#, Java, JavaScript  
 - **Frameworks:** .NET, ASP.NET Core, Entity Framework  
-- **Ferramentas:** Git, Swagger, SQL Server, Visual Studio, VS Code  
+- **Banco de Dados:** SQL Server, MySQL, MongoDB (com Docker)  
+- **Ferramentas:** Git, Swagger, Visual Studio, VS Code, Docker  
 
 ---
 
@@ -47,7 +48,8 @@ Currently, I’m focused on **Back-End development with C# and .NET**, while als
 ### Tech Stack
 - **Languages:** C#, Java, JavaScript  
 - **Frameworks:** .NET, ASP.NET Core, Entity Framework  
-- **Tools:** Git, Swagger, SQL Server, Visual Studio, VS Code  
+- **Databases:** SQL Server, MySQL, MongoDB (with Docker)  
+- **Tools:** Git, Swagger, Visual Studio, VS Code, Docker  
 
 ### GitHub Note
 The language stats may show more **Java** because of large academic projects, but my **main focus is C# and .NET**.
